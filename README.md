@@ -1,6 +1,6 @@
 ### Hey, I'm Simon Rogers aka midnite81 👋
 
-I’m currently working at F3 Group as a Full Stack Software Developer. 
+I’m currently working at **F3 Group** as a **Full Stack Software Developer**. 
 
 Web: [https://centralblue.co.uk/]()   
 Email: [webdev@centralblue.co.uk](mailto:webdev@centralblue.co.uk)   
