@@ -2,7 +2,7 @@
 
 I’m currently working at **F3 Group** as a **Full Stack Software Developer**. 
 
-Web: [https://centralblue.co.uk/]()   
+Web: [https://centralblue.co.uk/](https://centralblue.co.uk/)   
 Email: [webdev@centralblue.co.uk](mailto:webdev@centralblue.co.uk)   
 LinkedIn: [linkedin.com/in/simonrogersuk/](https://www.linkedin.com/in/simonrogersuk/)  
 StackOverflow: [stackoverflow.com/users/301593/simon-r](https://stackoverflow.com/users/301593/simon-r)   
