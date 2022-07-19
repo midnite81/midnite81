@@ -1,6 +1,6 @@
 ### Hey, I'm Simon Rogers aka midnite81 👋
 
-I’m currently working at **Fu3e** as a **Full Stack Software Developer**. 
+I’m currently working at **Fu3e** as a **Full Stack Senior Software Engineer**. 
 
 Web: [https://midnite.uk/](https://midnite.uk/)   
 Email: [webdev@midnite.uk](mailto:webdev@midnite.uk)   
