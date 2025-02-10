@@ -2,8 +2,6 @@
 
 I'm a **Full Stack Senior Software Engineer** at **Fu3e**, passionate about building robust, scalable solutions and crafting clean, efficient code. Whether it's backend logic, frontend finesse, or automation magic, I thrive on solving complex problems and making tech work seamlessly.  
 
-Want to connect? Let's chat!  
-
 🌍 **Website:** [midnite.uk](https://midnite.uk/)  
 📧 **Email:** [webdev@midnite.uk](mailto:webdev@midnite.uk)  
 💼 **LinkedIn:** [linkedin.com/in/simonrogersuk/](https://www.linkedin.com/in/simonrogersuk/)  
