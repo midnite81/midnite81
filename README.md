@@ -1,4 +1,4 @@
-### Hey there, I'm Simon Rogers—aka **midnite81**! 👋  
+### Hey there, I'm Simon Rogers — aka **midnite81**! 👋  
 
 I'm a **Full Stack Senior Software Engineer** at **Fu3e**, passionate about building robust, scalable solutions and crafting clean, efficient code. Whether it's backend logic, frontend finesse, or automation magic, I thrive on solving complex problems and making tech work seamlessly.  
 
